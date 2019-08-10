@@ -19,3 +19,25 @@ In short Clean Code is -
     Works correctly
 
 Also, if you always remember that code is written to read (by humans) and not just to be executed, you'll mostly be on the right track.
+
+Articles
+
+    What is Clean Code and why should you care?
+
+    Steps to better code
+
+    Clean code because it’s fun
+
+    Keeping your code clean
+
+Books
+
+    Structure and Interpretation of Computer Programs by Hal Abelson, Gerald Jay Sussman
+
+    Clean Code, Agile Software Development and Clean Architecture by R C Martin.
+
+    Code Complete (2nd Edition) by Steve McConnell
+
+    Programming Pearls by Jon Bentley
+
+    Design Patterns by the Gang of Four (one of the best books for program architecture)
